@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-7ll93+9g+fca80j!(x@_98um719#1ev3a9yyi_ynsfyhw%ygqr
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['eldudy.pythonanywhere.com']
+ALLOWED_HOSTS = ['www.genomemarks.com']
 
 
 # Application definition
